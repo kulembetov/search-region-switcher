@@ -5,9 +5,7 @@
     "description": "Easily change your Google Search region for the current search tab. Instantly switch between countries and languages.",
     "permissions": [
       "activeTab",
-      "storage",
-      "scripting",
-      "contextMenus"
+      "storage"
     ],
     "host_permissions": [
       "*://*.google.com/*",
